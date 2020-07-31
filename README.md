@@ -19,5 +19,7 @@ Meu nome é Reinaldo, sou desenvolvedor e Professor de TI.
 
 - Pós graduando em MBA em Engenharia de Software
 - Tecnólogo em Produção Multimídia.
-- Atualmente estudando Front-end (Html5, css3, javaScript) | Node.js - back-end | Python básico
+- Atualmente estudando Front-end (Html5, css3, javaScript, React) | Node.js - back-end | Python básico
+
 - Linguagens: javaScript, Python.
+- Objetivos principais: Desenvolvimento web, desenvolvimento mobile.

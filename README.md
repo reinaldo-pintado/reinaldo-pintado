@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Devs 👋
 
 <!--
 **reinaldo-pintado/reinaldo-pintado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Meu nome é Reinaldo, sou desenvolvedor e Professor de TI.
+
+- Pós graduando em MBA em Engenharia de Software
+- Tecnólogo em Produção Multimídia.
+- Atualmente estudando Front-end (Html5, css3, javaScript) | Node.js - back-end | Python básico
+- Linguagens: javaScript, Python.
